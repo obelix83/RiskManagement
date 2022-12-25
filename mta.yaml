@@ -77,7 +77,7 @@ resources:
   - name: risk-management-destination-service
     type: org.cloudfoundry.managed-service
     parameters:
-      service: destination
+      service: destination+
       service-plan: lite
   - name: risk-management-xsuaa
     type: org.cloudfoundry.managed-service
