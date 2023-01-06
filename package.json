@@ -12,7 +12,7 @@
   "dependencies": {
     "@sap-cloud-sdk/http-client": "^2.5.0",
     "@sap/cds": "^6",
-    "@sap/hana-client": "^2.15.17",
+    "@sap/hana-client": "^2.15.19",
     "@sap/xsenv": "^3.4.0",
     "@sap/xssec": "^3.2.14",
     "express": "^4",
